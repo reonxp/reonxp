@@ -22,8 +22,6 @@ I work with a variety of technologies and tools to bring ideas to life:
 ![reonxp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reonxp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Let's Connect! 🔗
-- [LinkedIn](https://www.linkedin.com/in/bagusdzakiy)
-- [Twitter](https://twitter.com/reonxp)
-- [Website](https://bagusdzakiy.dev)
+- 192.168.0.1
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
