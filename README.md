@@ -3,18 +3,18 @@
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. Always eager to learn, grow, and create amazing things with code. 🚀
 
 ## About Me
-- 🌱 I’m currently learning **Advanced JavaScript**, **React**, and **Node.js**.
-- 💻 I’m working on **building full-stack web applications** and exploring **AI** technologies.
-- 👯 I’m looking to collaborate on open-source projects, especially those related to **web development** and **machine learning**.
-- 🧐 Fun fact: I love experimenting with **new tech stacks** and **tools** to expand my skillset.
-- 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/bagusdzakiy) or send me an email at **bagusdzakiy@example.com**.
+- 🌱 I’m currently learning **How to life properly (I can't wake up early)**.
+- 💻 I’m working on **Home (as cleaning service)**
+- 👯 I’m looking to collaborate, especially those related to **Culinary**.
+- 🧐 Fun fact: I love **My self (because i don't have lover)**
+- 📫 How to reach me: You can send me an email at **reonxp@gmail.com**.
 
 ## Technologies & Tools
 I work with a variety of technologies and tools to bring ideas to life:
 
-- **Languages**: JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express, Next.js, TailwindCSS
-- **Tools**: Git, Docker, Firebase, MongoDB, Postman, Visual Studio Code
+- **Languages**: Jawa, Indonesia, English little little, Tagalog (just putang ina mo), Mandarin (just bing chilling & Chao ni ma), Japan (Yowaimo)
+- **Frameworks & Libraries**: I don't even works and libraries :(
+- **Tools**: Ryzen 5 5600 with RTX4060 32Gigs RAM that all white (more expensive than black)
 
 ## GitHub Stats
 
