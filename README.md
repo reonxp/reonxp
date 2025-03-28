@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. Al
 
 ## About Me
 - 🌱 I’m currently learning **How to life properly (I can't wake up early)**.
-- 💻 I’m working on **Home (as cleaning service)**
+- 💻 I’m working at **Home (as cleaning service)**
 - 👯 I’m looking to collaborate, especially those related to **Culinary**.
 - 🧐 Fun fact: I love **My self (because i don't have lover)**
 - 📫 How to reach me: You can send me an email at **reonxp@gmail.com**.
