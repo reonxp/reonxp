@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. Al
 I work with a variety of technologies and tools to bring ideas to life:
 
 - **Languages**: Jawa, Indonesia, English little little, Tagalog (just putang ina mo), Mandarin (just bing chilling & Chao ni ma), Japan (Yowaimo)
-- **Tools**: Ryzen 5 5600 with RTX4060 32Gigs RAM that all white (more expensive than black)
 
 ## GitHub Stats
 
